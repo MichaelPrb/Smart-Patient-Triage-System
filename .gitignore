@@ -1,0 +1,7 @@
+# Security: Ignore environment variables
+.env
+
+# Python: Ignore cache and virtual environments
+__pycache__/
+venv/
+*.ipynb_checkpoints
