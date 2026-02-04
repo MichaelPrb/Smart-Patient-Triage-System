@@ -23,6 +23,7 @@ This system helps hospital administration reduce manual triage time by:
 │   └── 01_patient_risk_analysis.ipynb  # Feature Engineering & Filtering Logic
 └── sql_queries/          # Database Analytics
     └── high_risk_patient_query.sql     # Complex SQL Query for Risk Assessment
+```
 
 🛠️ Tech Stack
 Language: Python 3.10+
