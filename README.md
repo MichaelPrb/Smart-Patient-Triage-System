@@ -60,12 +60,3 @@ Created by Michael Emmanuel Purba
 
 
 ---
-
-### 🚀 Push README ke GitHub
-
-Setelah file `README.md` disimpan, lakukan ritual terakhir di Git Bash:
-
-```bash
-git add README.md
-git commit -m "docs: add professional documentation"
-git push
